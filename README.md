@@ -18,6 +18,8 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 3 | Operators | ✅ |
 | 4 | Strings | ✅ |
 | 5 | Lists | ✅ |
+| 6 | Tuples | ✅ |
+| 7 | Sets | ✅ |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
