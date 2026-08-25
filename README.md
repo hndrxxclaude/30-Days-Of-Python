@@ -20,6 +20,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 5 | Lists | ✅ |
 | 6 | Tuples | ✅ |
 | 7 | Sets | ✅ |
+| 8 | Dictionaries | ✅ |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
